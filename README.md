@@ -183,6 +183,7 @@ The application includes AI-assisted features designed to help users make better
 ### 1. Clone the repository
 
 ```bash
+git clone https://github.com/tamani-percy/you_jobo_frontend_v2.git
 git clone https://github.com/tamani-percy/you_jobo_backend_v2.git
 cd job-tracker
 ```
