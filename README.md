@@ -5,15 +5,16 @@ A full-stack job tracking application designed to help you manage your job searc
  **This project is still a Work In Progress (WIP).**
 > Features, structure, and APIs may change as development continues.
 
-<img width="1920" height="1258" alt="screencapture-localhost-5173-companies-2026-04-26-11_17_34" src="https://github.com/user-attachments/assets/9b48733b-4b1c-40ac-8e6e-b8f0d9b7d508" />
-<img width="1920" height="991" alt="screencapture-localhost-5173-contact-persons-2026-04-26-11_17_40" src="https://github.com/user-attachments/assets/d1de2386-ddbd-4c3c-b7e2-e1451d46a517" />
-<img width="1920" height="991" alt="screencapture-localhost-5173-documents-2026-04-26-11_17_50" src="https://github.com/user-attachments/assets/5b08d7e6-e6ed-4f91-b8e0-a265a4ca78e7" />
-<img width="1920" height="1920" alt="screencapture-localhost-5173-resume-cv-job-matches-2026-04-26-11_17_59" src="https://github.com/user-attachments/assets/93a8b24d-d7ab-4244-9743-94255964932b" />
-<img width="1920" height="1042" alt="screencapture-localhost-5173-2026-04-26-11_16_28" src="https://github.com/user-attachments/assets/d80447b4-4508-455b-a055-332fdb9ce3f8" />
-<img width="1920" height="991" alt="screencapture-localhost-5173-2026-04-26-11_16_39" src="https://github.com/user-attachments/assets/8690a56d-0e66-43d9-b3ad-8af90eff630d" />
-<img width="1920" height="991" alt="screencapture-localhost-5173-job-applications-2026-04-26-11_16_52" src="https://github.com/user-attachments/assets/6efeb866-5455-43db-906e-7e6f0d0d0bed" />
-<img width="1920" height="1267" alt="screencapture-localhost-5173-job-applications-4-2026-04-26-11_17_06" src="https://github.com/user-attachments/assets/ee53276c-d314-4da3-91ed-64005601cb39" />
-<img width="1905" height="1127" alt="screencapture-localhost-5173-job-applications-4-2026-04-26-11_17_19" src="https://github.com/user-attachments/assets/4dd3cbb4-2bdf-4693-9fbc-2eaf07a168cf" />
+<img width="1905" height="1127" alt="9" src="https://github.com/user-attachments/assets/de55e743-2421-462c-b4bc-e6de1de4ff0e" />
+<img width="1920" height="1267" alt="8" src="https://github.com/user-attachments/assets/e096e5ba-2d04-421c-a0a7-d29aec258d6e" />
+<img width="1920" height="991" alt="7" src="https://github.com/user-attachments/assets/5055cf33-7c06-4efe-b234-a9fd173d58f5" />
+<img width="1920" height="991" alt="6" src="https://github.com/user-attachments/assets/26dc92c5-169b-4015-ba82-14a5ae9a3583" />
+<img width="1920" height="1042" alt="5" src="https://github.com/user-attachments/assets/28828bd7-abba-48dc-b868-74b97730063b" />
+<img width="1920" height="932" alt="4" src="https://github.com/user-attachments/assets/73257af1-cb2c-46e3-a766-9a6289c70e83" />
+<img width="1920" height="991" alt="3" src="https://github.com/user-attachments/assets/f4b44624-a67d-44cd-912d-12d460cbae6e" />
+<img width="1920" height="991" alt="2" src="https://github.com/user-attachments/assets/ed51958c-cb16-4ca9-ba1e-9b30b9a4021c" />
+<img width="1920" height="1258" alt="1" src="https://github.com/user-attachments/assets/e928d5f0-0a1c-43da-b78e-b65147af43d9" />
+
 
 
 ### Overview
